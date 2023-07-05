@@ -1,2 +1,2 @@
-# My sample API Repo
+# My sample API Assets Repo
 
